@@ -1,6 +1,6 @@
 # Classification with fully connected networks on the IRIS dataset
 ## **Introduction**
-In this exercise, in order to know that image data can be used in non-image problems as well, we will use the iris structured data set including 4 features for the length and width of sepals and petals, so that we can distinguish the type of flower from 3 different classes based on these features.
+In this exercise, I will use the iris structured data set including 4 features for the length and width of sepals and petals, so that can distinguish the type of flower from 3 different classes based on these features.
 
 In this exercise, I want to use the iris dataset.
 
