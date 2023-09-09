@@ -22,10 +22,10 @@ classes:
 * Iris Versicolour
 * Iris Virginica
 
-This dataset is available in the sklearn library
+This dataset is available in the sklearn library.
 
 ## **Conclusion**
-I used **Fully Connected Networks** including 3 fully connected layers and 2 layers for Dropouts:
+I used **Fully Connected Networks**, including 3 fully connected layers and 2 layers for Dropouts:
 
 **Final test set loss: 0.105403**<br>
 **Final test set accuracy: 0.966667**
